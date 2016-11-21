@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400mm"
+   height="260mm"
+   viewBox="0 0 1417.3228 921.25982"
+   id="svg5736"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="py-modules.svg">
+  <defs
+     id="defs5738" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0668"
+     inkscape:cx="371.77285"
+     inkscape:cy="725.05525"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5741">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-131.10236)">
+    <g
+       id="g6523">
+      <rect
+         ry="13.6063"
+         y="328.70261"
+         x="397.45026"
+         height="194.97563"
+         width="337.45782"
+         id="rect6303"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6305"
+         y="390.4873"
+         x="565.28076"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           y="390.4873"
+           x="565.28076"
+           id="tspan6307"
+           sodipodi:role="line">Estructura que</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan6309"
+           y="440.4873"
+           x="565.28076"
+           sodipodi:role="line">describe el</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan6311"
+           y="490.4873"
+           x="565.28076"
+           sodipodi:role="line">modulo</tspan></text>
+    </g>
+    <g
+       id="g6537"
+       transform="translate(-26.51319,74.236932)">
+      <rect
+         ry="8.5684996"
+         y="88.732597"
+         x="44.994316"
+         height="191.22609"
+         width="369.32886"
+         id="rect6313"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6315"
+         y="141.22603"
+         x="74.990562"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="141.22603"
+           x="74.990562"
+           id="tspan6317"
+           sodipodi:role="line">Tabla global</tspan><tspan
+           id="tspan6319"
+           y="191.22603"
+           x="74.990562"
+           sodipodi:role="line">de modulos</tspan><tspan
+           id="tspan6329"
+           y="241.22603"
+           x="74.990562"
+           sodipodi:role="line">mpconfigport.h</tspan></text>
+    </g>
+    <g
+       id="g6530">
+      <rect
+         ry="13.6063"
+         y="553.67456"
+         x="592.4259"
+         height="194.97563"
+         width="337.45782"
+         id="rect6303-6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6305-7"
+         y="615.45923"
+         x="760.25641"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6373"
+           style="text-align:center;text-anchor:middle"
+           y="615.45923"
+           x="760.25641"
+           sodipodi:role="line">Diccionario</tspan><tspan
+           id="tspan6377"
+           style="text-align:center;text-anchor:middle"
+           y="665.45923"
+           x="760.25641"
+           sodipodi:role="line">del</tspan><tspan
+           id="tspan6379"
+           style="text-align:center;text-anchor:middle"
+           y="715.45923"
+           x="760.25641"
+           sodipodi:role="line">modulo</tspan></text>
+    </g>
+    <g
+       id="g6517"
+       transform="translate(-5.624297,75.923274)">
+      <rect
+         ry="13.6063"
+         y="169.34758"
+         x="1021.7473"
+         height="131.2336"
+         width="258.71768"
+         id="rect6303-6-6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6305-7-2"
+         y="224.8765"
+         x="1152.3658"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6379-2"
+           style="text-align:center;text-anchor:middle"
+           y="224.8765"
+           x="1152.3658"
+           sodipodi:role="line">Objeto</tspan><tspan
+           id="tspan6415"
+           style="text-align:center;text-anchor:middle"
+           y="274.8765"
+           x="1152.3658"
+           sodipodi:role="line">función</tspan></text>
+    </g>
+    <g
+       id="g6511"
+       transform="translate(-5.624297,76.860713)">
+      <rect
+         ry="13.6063"
+         y="328.70264"
+         x="1021.7473"
+         height="131.2336"
+         width="258.71768"
+         id="rect6303-6-6-7"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6305-7-2-0"
+         y="384.23157"
+         x="1151.067"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6415-3"
+           style="text-align:center;text-anchor:middle"
+           y="384.23157"
+           x="1151.067"
+           sodipodi:role="line">Objeto</tspan><tspan
+           id="tspan6443"
+           style="text-align:center;text-anchor:middle"
+           y="434.23157"
+           x="1151.067"
+           sodipodi:role="line">tipo</tspan></text>
+    </g>
+    <g
+       id="g6505"
+       transform="translate(-5.624297,75.923244)">
+      <rect
+         ry="13.6063"
+         y="489.9325"
+         x="1021.7473"
+         height="131.2336"
+         width="258.71768"
+         id="rect6303-6-6-6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6305-7-2-06"
+         y="545.46143"
+         x="1151.5748"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6379-2-2"
+           style="text-align:center;text-anchor:middle"
+           y="545.46143"
+           x="1151.5748"
+           sodipodi:role="line">Objeto</tspan><tspan
+           id="tspan6415-6"
+           style="text-align:center;text-anchor:middle"
+           y="595.46143"
+           x="1151.5748"
+           sodipodi:role="line">variable</tspan></text>
+    </g>
+    <g
+       id="g6499"
+       transform="translate(-5.624297,71.236354)">
+      <rect
+         ry="13.6063"
+         y="654.91187"
+         x="1021.7473"
+         height="131.2336"
+         width="258.71768"
+         id="rect6303-6-6-6-1"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6305-7-2-06-8"
+         y="710.4408"
+         x="1151.5748"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6379-2-2-7"
+           style="text-align:center;text-anchor:middle"
+           y="710.4408"
+           x="1151.5748"
+           sodipodi:role="line">Objeto</tspan><tspan
+           id="tspan6415-6-9"
+           style="text-align:center;text-anchor:middle"
+           y="760.4408"
+           x="1151.5748"
+           sodipodi:role="line">variable</tspan></text>
+    </g>
+    <g
+       id="g6493"
+       transform="translate(-5.624297,75.923274)">
+      <rect
+         ry="13.6063"
+         y="810.5174"
+         x="1021.7473"
+         height="131.2336"
+         width="258.71768"
+         id="rect6303-6-6-6-2"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.69999981;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6305-7-2-06-0"
+         y="866.04633"
+         x="1151.067"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6379-2-2-2"
+           style="text-align:center;text-anchor:middle"
+           y="866.04633"
+           x="1151.067"
+           sodipodi:role="line">Objeto</tspan><tspan
+           id="tspan6415-6-3"
+           style="text-align:center;text-anchor:middle"
+           y="916.04633"
+           x="1151.067"
+           sodipodi:role="line">class</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 549.96911,525.21183 c -3.3248,68.77219 8.29582,115.38709 42.45678,116.57664"
+       id="path6544"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 167.43369,353.28052 C 170.89802,431.38277 271.354,457.1283 398.53851,453.85838"
+       id="path6544-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g6578"
+       transform="translate(21.210552,100.75012)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6561"
+         d="m 975.68534,137.65709 c -61.55481,16.38409 28.49956,365.78181 -35.62055,395.04653"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6561-5"
+         d="M 974.25667,925.43764 C 912.70186,909.05355 1002.7562,559.65583 938.63612,530.39111"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
